@@ -12,9 +12,13 @@ Welcome to InspireU, where we are committed to preserving our planet for future 
 
 Our machine learning model recommends plants for your garden based on your budget and preferred plant types. Additionally, it suggests combinations of plants within your budget for a thriving garden. The recommended plants can be used to place orders directly from nearby nurseries by entering them in the query section.
 
-### 2. Leaderboard for Tree Planting
+### 2. Sustainable Energy and Electric Car Support
 
-Encourage tree planting and track your contribution! Enter the number of trees planted in the last month, and our leaderboard will display rankings and award badges to users based on their achievements in tree planting.
+- **Renewable Energy Calculator:** Determine your monthly electricity consumption and discover how many solar panels are required to meet your electricity needs. Get an estimate of the total cost of these solar panels and find an Amazon link to purchase them, making sustainable energy accessible.
+
+- **Electric Car Enthusiast Recognition and Learning:** Are you an electric car owner? Your commitment to the environment deserves recognition. In our leaderboard, your name will be highlighted, and you'll receive an "Environment Savior" badge.
+-  Additionally, you can access important information about renewable energy, including Wikipedia links, by clicking the "Learn More about renewable energy" button on the leaderboard.
+
 
 ### 3. Renewable Energy Calculator
 
