@@ -20,21 +20,10 @@ Our machine learning model recommends plants for your garden based on your budge
 -  Additionally, you can access important information about renewable energy, including Wikipedia links, by clicking the "Learn More about renewable energy" button on the leaderboard.
 
 
-### 3. Renewable Energy Calculator
-
-Determine your monthly electricity consumption and discover how many solar panels are required to meet your electricity needs. Get an estimate of the total cost of these solar panels and find an Amazon link to purchase them, making sustainable energy accessible.
-
-### 4. Electric Car Enthusiast Recognition
-
-Are you an electric car owner? Your commitment to the environment deserves recognition. In our leaderboard, your name will be highlighted, and you'll receive an "Environment Savior" badge.
-
-### 5. Environmental Reporting
+### 5. Environmental Reporting and Cattle Management
 
 Help improve your city's environment by uploading images of land waste and sightings of unknown cattle on roads. Government officials can access this data for appropriate action, reducing land pollution and enhancing cattle management while reducing traffic and accidents.
 
-### 6. Learn More About Renewable Energy
-
-On the leaderboard page, we provide a "Learn More" button that opens a slide bar. Here, users can access important information on renewable energy, including Wikipedia links, to increase awareness and knowledge about sustainable energy sources.
 
 ### 7. Localized Weather Forecasts
 
